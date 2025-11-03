@@ -1,1 +1,1 @@
-# revivehub-service
+# revivehub-server
